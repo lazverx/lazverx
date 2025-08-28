@@ -7,8 +7,8 @@
     <br>
   <p>I'll stay awake</p>
   <p>Till the day comes when</p>
-  <p>I will suffocate on𝓁</p>s
-  <p>My own terms</p>
+  <p>I will suffocate on</p>s
+<p>My own terms</p>
 <p><a href="https://youtu.be/0iVlSNpq8i8">BIRDBRAIN - Kasane Teto</a><p>
   
 </div>
@@ -16,7 +16,7 @@
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://media1.tenor.com/m/twQDtdupDTYAAAAC/touhou-cirno.gif" align="right" width="200"/>
+<img src="https://media1.tenor.com/m/twQDtdupDTYAAAAC/touhou-cirno.gif" align="right" width="350"/>
   </div>
 <li>
  <b>Name:</b> Lazver</li>
