@@ -16,7 +16,7 @@
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://media1.tenor.com/m/twQDtdupDTYAAAAC/touhou-cirno.gif" align="right" width="300"/>
+<img src="https://media1.tenor.com/m/twQDtdupDTYAAAAC/touhou-cirno.gif" align="right" width="260"/>
   </div>
 <li>
  <b>Name:</b> Lazver</li>
