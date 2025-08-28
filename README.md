@@ -13,12 +13,10 @@
   
 </div>
     <div align="center">
-
-      </div>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://media1.tenor.com/m/twQDtdupDTYAAAAC/touhou-cirno.gif" align="right">
+<img src="https://media1.tenor.com/m/twQDtdupDTYAAAAC/touhou-cirno.gif" align="right" width="200"/>
   </div>
 <li>
  <b>Name:</b> Lazver</li>
