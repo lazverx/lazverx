@@ -7,7 +7,7 @@
     <br>
   <p>I'll stay awake</p>
   <p>Till the day comes when</p>
-  <p>I will suffocate on</p>s
+  <p>I will suffocate on</p>
 <p>My own terms</p>
 <p><a href="https://youtu.be/0iVlSNpq8i8">BIRDBRAIN - Kasane Teto</a><p>
   
@@ -16,7 +16,7 @@
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://media1.tenor.com/m/twQDtdupDTYAAAAC/touhou-cirno.gif" align="right" width="350"/>
+<img src="https://media1.tenor.com/m/twQDtdupDTYAAAAC/touhou-cirno.gif" align="right" width="300"/>
   </div>
 <li>
  <b>Name:</b> Lazver</li>
@@ -24,13 +24,10 @@
 <b>Persona:</b> Kasane Teto, sometimes cirno
 </li>
 <li>
-<b>Loves:</b> Vocaloid,Touhou,Rhythm Games
+<b>Loves:</b> Vocaloid,Touhou,,TUYU,Rhythm Games
 </li>
 <li>
 <b>Gender:</b> he/him/male
-</li>
-<li>
-<b>LastFM:</b> https://scrobble.egirl.ing
 </li>
 <li>
 <b>Hobbys:</b> Tech Stuff, Composing Music, Gaming
