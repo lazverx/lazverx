@@ -33,7 +33,7 @@
 <b>Hobbys:</b> Tech Stuff, Composing Music, Gaming
 </li>
 <li>
-<b>Working @:</b> 100 days of Code
+<b>Working @:</b> 100 days of Code,50 days of Python
 </li>
 <br><br><br>
 </div>
