@@ -42,7 +42,7 @@
 <br>
 <p>
   <div align="center">
-    <img src="https://media1.tenor.com/m/ZvA_GV3GkqwAAAAd/birdbrain-jamie-paige.gif" align="right">
+    <img src="https://media1.tenor.com/m/ZvA_GV3GkqwAAAAd/birdbrain-jamie-paige.gif" align="right" width="373.5px" height="208.5px">
   </div>
 </div>
 <div>
