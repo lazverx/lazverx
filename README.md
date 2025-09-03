@@ -1,30 +1,30 @@
 <body>
   <center>
-<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<h1 align="center">~ 👾 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙈𝙮 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 👾 ~</h1>
 <br>
 <div align="center">
   </a>
     <br>
-  <p>I'll stay awake</p>
-  <p>Till the day comes when</p>
-  <p>I will suffocate on</p>
-<p>My own terms</p>
-<p><a href="https://youtu.be/0iVlSNpq8i8">BIRDBRAIN - Kasane Teto</a><p>
+  <p>𝐈'𝐥𝐥 𝐬𝐭𝐚𝐲 𝐚𝐰𝐚𝐤𝐞</p>
+  <p>𝐓𝐢𝐥𝐥 𝐭𝐡𝐞 𝐝𝐚𝐲 𝐜𝐨𝐦𝐞𝐬 𝐰𝐡𝐞𝐧</p>
+  <p>𝐈 𝐰𝐢𝐥𝐥 𝐬𝐮𝐟𝐟𝐨𝐜𝐚𝐭𝐞 𝐨𝐧</p>
+<p>𝐌𝐲 𝐨𝐰𝐧 𝐭𝐞𝐫𝐦𝐬</p>
+<p><a href="https://youtu.be/GyjpqeKqzaQ">𝗼𝘆𝗮𝘀𝘂𝗺𝗶𝗻𝗮𝘁𝗶𝗼𝗻 - 𝗶𝗽𝗽𝗼｡𝘁𝘀𝗸</a><p>
   
 </div>
     <div align="center">
 <div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<h2 align="center"> 🦊 ~ 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 ~ 🦊 </h2>
   <div align="center">
 <img src="https://media1.tenor.com/m/twQDtdupDTYAAAAC/touhou-cirno.gif" align="right" width="260"/>
   </div>
 <li>
  <b>Name:</b> Lazver</li>
 <li>
-<b>Persona:</b> Kasane Teto, sometimes cirno
+<b>Character:</b> Kasane Teto, sometimes cirno
 </li>
 <li>
-<b>Loves:</b> Vocaloid,Touhou,,TUYU,Rhythm Games
+<b>Loves:</b> Vocaloid,Touhou,,TUYU,Rhythm Games,Persona
 </li>
 <li>
 <b>Gender:</b> he/him/male
@@ -38,7 +38,7 @@
 <br><br><br>
 </div>
 <div>
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="center">            ~ 📇 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 📇 ~</h2>
 <br>
 <p>
   <div align="center">
@@ -68,21 +68,21 @@
     <img src="https://img.shields.io/badge/godot-%23478CBF.svg?&style=for-the-badge&logo=godot-engine&logoColor=white"/>
     <img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
     <br><br>
-    I love making guides and tutorials, experimenting with music, and trying out live2d character animation. I usually spend hours perfecting my projects while jamming to vocaloid music.
+    I love to expand my knowledge on all kind of stuff, experimenting with music, and trying out live2d character animation. 
   </p>
   <br>
-<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<h2 align="center">           📝 ~ 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚~ 📝</h2>
   <div align="center">
 <img src="https://media1.tenor.com/m/mH6orQt1MkEAAAAC/teto-kasane.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
-<p align="center">Hewe awe some of my <br>
-most used social things >~< xoxox</p>
+<p align="center">Here are some of my <br>
+most used social things</p>
 <p align="center"><a href="https://www.instagram.com/unravellingsaitei" target="_blank"><img src="https://img.shields.io/badge/unravellingsaitei%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/motionime" target="_blank"><img src="https://img.shields.io/badge/MotionIme%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align="center">💖 ~ 𝙏𝙝𝙖𝙣𝙠𝙨 𝙁𝙤𝙧 𝙍𝙚𝙖𝙙𝙞𝙣𝙜! ~ 💖</h2>
 <div align="center">
 <img src="https://media1.tenor.com/m/fAk3pBJvppoAAAAd/channel-castation-magical-girl-miku.gif">
 </div>
