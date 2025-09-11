@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/godot-%23478CBF.svg?&style=for-the-badge&logo=godot-engine&logoColor=white"/>
     <img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
     <br><br>
-    I love to expand my knowledge on all kind of stuff, experimenting with music, and trying out live2d character animation. 
+    I love to expand my knowledge on all kind of stuff, experimenting with music, also kinda good at rhythm games
   </p>
   <br>
 <h2 align="center">           📝 ~ 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚~ 📝</h2>
