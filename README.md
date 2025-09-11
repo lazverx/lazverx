@@ -82,7 +82,7 @@ most used social things</p>
 </div>
 <br>
 <div>
-<h2 align="center">💖 ~ 𝙏𝙝𝙖𝙣𝙠𝙨 𝙁𝙤𝙧 𝙍𝙚𝙖𝙙𝙞𝙣𝙜! ~ 💖</h2>
+<h2 align="center">🔥 ~ 𝙏𝙝𝙖𝙣𝙠𝙨 𝙁𝙤𝙧 𝙍𝙚𝙖𝙙𝙞𝙣𝙜! ~ 🔥</h2>
 <div align="center">
 <img src="https://media1.tenor.com/m/fAk3pBJvppoAAAAd/channel-castation-magical-girl-miku.gif">
 </div>
